@@ -1,0 +1,7 @@
+2022-07-21 18:39:28 ETL Job Started
+2022-07-21 18:39:28 Extract phase Started
+2022-07-21 18:39:33 Extract phase Ended
+2022-07-21 18:39:35 Transform phase Started
+2022-07-21 18:39:39 Transform phase Ended
+2022-07-21 18:39:41 Load phase Started
+2022-07-21 18:39:45 Load phase Ended
